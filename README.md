@@ -8,4 +8,4 @@
 
 To clone our conda environment we used this command ```conda env create -f env.yaml -n rna_spec_reshma```
 
-This installed the wrong version of python so we ````conda install python=3.10.6```
+This installed the wrong version of python so we ```conda install python=3.10.6```
