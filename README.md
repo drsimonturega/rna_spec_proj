@@ -6,4 +6,4 @@
 
 ### cloning conda environment
 
-To clone our conda environment we used this command ```conda env create -f env.yaml -n rna_spec_proj``
+To clone our conda environment we used this command ```conda env create -f env.yaml -n rna_spec_proj```
